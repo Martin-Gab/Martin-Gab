@@ -15,9 +15,9 @@ My name is Martin, I'm a Junior Frontend Developer from Marseille, France.
 ![sass](https://user-images.githubusercontent.com/73384885/171582758-a2aaf0e9-4eb8-43e8-b4f9-fef7bfbd8462.png)
 ![bootstrap](https://user-images.githubusercontent.com/73384885/171582792-03718417-d217-4adc-b02d-f55eb29e0197.png)
 
-## Open Source Projects
+## Projects I've worked on
 
-Coming soon...
+
 
 ## Where to find me
 
