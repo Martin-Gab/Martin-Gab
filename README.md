@@ -2,7 +2,7 @@
 
 My name is Martin, I'm a Junior Frontend Developer from Marseille, France.
 
-## My tech stacks
+## My Tech Stack
 
 ![html-5 (1)](https://user-images.githubusercontent.com/73384885/171582623-b6a7602a-68fd-4144-9c73-546bed76b8de.png)
 ![css-3](https://user-images.githubusercontent.com/73384885/171582633-2e3b4fa9-cf8c-4d85-84a5-cff2b7f1cb6d.png)
@@ -17,7 +17,17 @@ My name is Martin, I'm a Junior Frontend Developer from Marseille, France.
 
 ## Projects I've worked on
 
+### Online
 
+<a href="https://www.pierrovelo.com/" target="_blank">Pierro Vélo<a/>
+  
+### Personal Projects
+  
+Project done at the end of the bootcamp :
+<a href="https://github.com/Martin-Gab/Projet-fin-de-formation-tomates-et-potirons-front" target="_blank">Tomates & Potirons<a/>
+
+[Work In Progress] Challenge from Frontend Mentor :
+<a href="https://github.com/Martin-Gab/frontendmentor-time-tracking-dashboard" target="_blank">Time Tracking Dashboard<a/>
 
 ## Where to find me
 
