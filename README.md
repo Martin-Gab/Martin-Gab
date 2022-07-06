@@ -26,7 +26,7 @@ My name is Martin, I'm a Junior Frontend Developer from Marseille, France.
 Project done at the end of the bootcamp :
 <a href="https://github.com/Martin-Gab/Projet-fin-de-formation-tomates-et-potirons-front" target="_blank">Tomates & Potirons<a/>
 
-[Work In Progress] Challenge from Frontend Mentor :
+Challenge from Frontend Mentor :
 <a href="https://github.com/Martin-Gab/frontendmentor-time-tracking-dashboard" target="_blank">Time Tracking Dashboard<a/>
 
 ## Where to find me
