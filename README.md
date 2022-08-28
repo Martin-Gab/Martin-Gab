@@ -32,5 +32,3 @@ Challenge from Frontend Mentor :
 ## Where to find me
 
 <a href="https://www.linkedin.com/in/martin-gabillet-94433ba8/" target="_blank">![linkedin](https://user-images.githubusercontent.com/73384885/171583087-24857e23-78c8-4028-8023-57fabe3bcaf2.png)<a/> 
-<a href="https://twitter.com/_martingab" target="_blank">![twitter](https://user-images.githubusercontent.com/73384885/171585600-8be2d92c-8120-4b1c-9410-a8687e096c19.png)
-<a/>
